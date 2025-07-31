@@ -177,8 +177,8 @@ const moussa = {
 ### Vous avez un projet ? Discutons !
 
 📞 **Appel découverte gratuit** : [Calendly](https://calendly.com/moussgaye0)  
-💬 **WhatsApp** : [+212 XXX XXX XXX](https://wa.me/212606213027)  
-✉️ **Email** : [contact@moussagaye.com](mailto:moussgaye0@gmail.com)  
+💬 **WhatsApp** : [+212 606213027](https://wa.me/212606213027)  
+✉️ **Email** : [moussgaye0@gmail.com](mailto:moussgaye0@gmail.com)  
 💼 **LinkedIn** : [linkedin.com/in/moussa-gaye](https://www.linkedin.com/in/moussa-gaye-0a6455162/)  
 🌐 **Portfolio** : [moussagaye.vercel.app](https://moussagaye.vercel.app)
 

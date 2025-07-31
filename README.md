@@ -1,4 +1,4 @@
-<img width="1913" height="966" alt="image" src="https://github.com/user-attachments/assets/0cfedfb4-e8fe-4719-8a40-dbc5a759dc1d" />
+<img width="2500" height="966" alt="image" src="https://github.com/user-attachments/assets/0cfedfb4-e8fe-4719-8a40-dbc5a759dc1d" />
 
 # Salut, moi c'est **Moussa Gaye** 👋  
 **Développeur Full-Stack Senior** | Next.js · React · Node.js · Python · AWS · DevOps
@@ -177,8 +177,8 @@ const moussa = {
 ### Vous avez un projet ? Discutons !
 
 📞 **Appel découverte gratuit** : [Calendly](https://calendly.com/moussagaye)  
-💬 **WhatsApp** : [+212 XXX XXX XXX](https://wa.me/212XXXXXXXXX)  
-✉️ **Email** : [contact@moussagaye.com](mailto:contact@moussagaye.com)  
+💬 **WhatsApp** : [+212 XXX XXX XXX](https://wa.me/212606213027)  
+✉️ **Email** : [contact@moussagaye.com](mailto:moussgaye0@gmail.com)  
 💼 **LinkedIn** : [linkedin.com/in/moussa-gaye](https://www.linkedin.com/in/moussa-gaye-0a6455162/)  
 🌐 **Portfolio** : [moussagaye.vercel.app](https://moussagaye.vercel.app)
 

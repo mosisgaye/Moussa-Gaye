@@ -1,6 +1,6 @@
 <img width="2500" height="966" alt="image" src="https://github.com/user-attachments/assets/0cfedfb4-e8fe-4719-8a40-dbc5a759dc1d" />
 
-# Salut, moi c'est **Moussa Gaye** 👋  
+                 # Salut, moi c'est **Moussa Gaye** 👋  
 **Développeur Full-Stack Senior** | Next.js · React · Node.js · Python · AWS · DevOps
 
 <div align="center">

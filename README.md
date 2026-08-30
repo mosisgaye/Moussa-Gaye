@@ -1,4 +1,5 @@
-<img width="2500" height="966" alt="image" src="https://github.com/user-attachments/assets/0cfedfb4-e8fe-4719-8a40-dbc5a759dc1d" />
+<img width="1906" height="922" alt="image" src="https://github.com/user-attachments/assets/8f33f7a5-06d8-48e0-9329-f1a341551a1b" />
+
 
   # Salut, moi c'est **Moussa Gaye** 👋  
 **Développeur Full-Stack Senior** | Next.js · React · Node.js · Python · AWS · DevOps
@@ -193,5 +194,5 @@ const moussa = {
   
   ---
   
-  **© 2025 Moussa Gaye** · Développé avec ❤️ depuis Casablanca 🇲🇦
+  **© 2026 Moussa Gaye** · Développé avec ❤️ depuis Casablanca 🇲🇦
 </div>
